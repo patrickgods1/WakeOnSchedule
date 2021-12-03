@@ -23,7 +23,7 @@ Modify the config.py to specify the:
 
 To run the application:
 ```
-.\WakeOnSchedule.py
+python .\WakeOnSchedule.py
 ```
 
 ## Authors
